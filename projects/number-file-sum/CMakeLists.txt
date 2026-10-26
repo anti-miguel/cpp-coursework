@@ -1,0 +1,1 @@
+coursework_program(number_file_sum_leernumerosysuma "leernumerosysuma.cpp")

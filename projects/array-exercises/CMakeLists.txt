@@ -1,0 +1,8 @@
+coursework_program(array_exercises_20de1al10enarray "20de1al10enarray.cpp")
+coursework_program(array_exercises_early_arrays_arrays2d "early/arrays/arrays2d.cpp")
+coursework_program(array_exercises_early_arrays_random10array "early/arrays/random10array.cpp")
+coursework_program(array_exercises_early_tablanaleatorios "early/TablaNaleatorios.cpp")
+coursework_program(array_exercises_n_numerosarray "n.numerosarray.cpp")
+coursework_program(array_exercises_nhasta0rachacreciente "Nhasta0rachacreciente.cpp")
+coursework_program(array_exercises_nhasta0y0hastan "Nhasta0y0hastaN.cpp")
+coursework_program(array_exercises_tablanaleatorios "TablaNaleatorios.cpp")

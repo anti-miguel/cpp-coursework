@@ -1,0 +1,5 @@
+coursework_program(character_sheet_early_ficharol "early/FICHAROL.cpp")
+if(WIN32)
+    coursework_program(character_sheet_early_test2 "early/test2.cpp")
+endif()
+coursework_program(character_sheet_ficharol "ficharol.cpp")

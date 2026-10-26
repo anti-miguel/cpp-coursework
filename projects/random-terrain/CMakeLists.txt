@@ -1,0 +1,2 @@
+coursework_program(random_terrain_early_randomterrain "early/randomterrain.cpp")
+coursework_program(random_terrain_randomterrain "randomterrain.cpp")
