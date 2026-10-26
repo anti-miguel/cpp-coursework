@@ -20,6 +20,7 @@ These are coursework snapshots. Compilation fixes, UTF-8 normalization, and priv
 | [Delivery scheduler](projects/delivery-scheduler/) | FIFO preparation, urgent orders, route assignment | Portable console |
 | [Library catalog](projects/library-catalog/) | Inheritance, loans, reservations, TSV persistence, command parsing | Portable console |
 | [Trees, graphs, and map](projects/trees-graphs-map/) | Tree traversals, weighted paths, hash buckets | Portable console |
+| [Publish/subscribe broker](projects/publish-subscribe/) | Threads, message queues, topic routing, clean shutdown | Portable console |
 | [Tape multiplication](projects/tape-multiplication/) | Unary representation and tape-state transitions | Portable console |
 | [Modular exponentiation](projects/modular-exponentiation/) | Exponentiation by squaring | Portable console |
 | [Array exercises](projects/array-exercises/) | Random sequences, traversal, multidimensional arrays | Portable console |

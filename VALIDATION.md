@@ -34,7 +34,7 @@ The [hospital README](projects/hospital-linear/README.md#original-course-tests) 
 | Absolute Windows paths, email addresses, credential URLs, common secret assignments and token/key formats | No matches in the public tree |
 | Known personal names, unrelated project references, and sample author names | Removed from the public tree and reachable commit history |
 | Lecturer libraries, sample-derived fragments, assignment PDFs, original binaries, object files, and IDE state | Absent from the public tree |
-| Project documentation | All 18 project folders have READMEs and CMake targets |
+| Project documentation | All 19 project folders have READMEs and CMake targets |
 | Local Markdown links | All referenced files and directories exist |
 | Source integrity | Copied-source hashes still match every recorded original source file |
 | Git identity | Single commit under the GitHub noreply address |
